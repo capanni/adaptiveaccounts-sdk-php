@@ -1,5 +1,5 @@
 <?php 
-
+ini_set("memory_limit","12M");
 /**
  *  Downloads PayPal PHP SDK dependencies based on your composer.json file
  */
